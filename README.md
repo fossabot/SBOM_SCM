@@ -69,6 +69,7 @@ Soon
 |이름|역할|E-Mail|Github|
 |:---:|:---:|:---:|:---:|
 |최수호| 팀장|snp.sanso@gmail.com|[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/s4nso)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FS4nso%2FSBOM_SCM.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FS4nso%2FSBOM_SCM?ref=badge_shield)
 |강민식| 팀원|@|[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
 |김도현| 팀원|@|[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
 |최영훈| 팀원|@|[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
@@ -77,3 +78,6 @@ Soon
 
 # 📜저작권 및 사용권 정보(Copyleft / End User License)
 - [MIT LICENSE]()
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FS4nso%2FSBOM_SCM.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FS4nso%2FSBOM_SCM?ref=badge_large)
